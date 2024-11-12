@@ -21,8 +21,8 @@ This is a Django project utilizing PostgreSQL as the database and Django Ninja f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/gelono/starnavi_task.git
+   cd starnavi_task
    
 2. Create and activate a virtual environment:
     ```bash
